@@ -11,4 +11,11 @@ The default kali shell is **zsh** (Z shell). It's THE shell you must have if you
 Like you see, in the CMD column there is the name of the shell you're using. Here it's zsh.
 
 ## Installation of zsh
-To install zsh, copy the command `sudo apt-get install zsh` (for the complete noobs: the `apt-get` command install packages from the **official repositories**), type your password if asking, and press y (for "yes"). Here's an example:
+To install zsh, copy the command `sudo apt-get install zsh` (for the complete noobs: the `apt-get` command install packages from the **official repositories**), type your password if asking, and press y (for "yes"). Here's a demonstration:
+
+![install zsh](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/install_zsh.png)
+
+> Now zsh is installed in your computer! to use it, copy the command `zsh` (to use a shell, juste type his name on the terminal). But currently, your zsh is probably not very nice! We will change that.
+
+## Make your zsh look like the kali zsh
+To do that, you'll must change your *.zshrc* file (who is stored on your

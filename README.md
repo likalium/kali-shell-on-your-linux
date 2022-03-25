@@ -6,4 +6,9 @@ The default kali shell is **zsh** (Z shell). It's THE shell you must have if you
 
 > To know what shell you're using, open a terminal and copy the command `ps -p $$`:
 
-![example of what shell i'm using](https://github.com/likalium/images/blob/main/kali%20shell%20images/zsh.png)
+![how to know what shell you're using](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/zsh.png)
+
+Like you see, in the CMD column there is the name of the shell you're using. Here it's zsh.
+
+## Installation of zsh
+To install zsh, copy the command `sudo apt-get install zsh` (for the complete noobs: the `apt-get` command install packages from the **official repositories**), type your password if asking, and press y (for "yes"). Here's an example:

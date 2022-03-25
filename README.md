@@ -18,4 +18,4 @@ To install zsh, copy the command `sudo apt-get install zsh` (for the complete no
 > Now zsh is installed in your computer! to use it, copy the command `zsh` (to use a shell, juste type his name on the terminal). But currently, your zsh is probably not very nice! We will change that.
 
 ## Make your zsh look like the kali zsh
-To do that, you'll must change your *.zshrc* file (who is stored on your
+To do that, you'll must change your *.zshrc* file (who is stored in your home foler) with a specific code, and also add folders to your */usr/share* directory. This folders and the code for the *.zshrc* files are on this github repository.

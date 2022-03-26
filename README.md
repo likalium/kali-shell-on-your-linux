@@ -26,7 +26,7 @@ Here's a demonstration:
 We'll do this in three steps:
   1. List the shells you have on your computer with `cat /etc/shells` to know what shells you're using
   2. Type the `chsh` command
-  3. The command says the actual default shell, and ask you to enter the path to the shells you wants to use by default. This path was indicated by the command you runned in the first step. Here's a demonstration:
+  3. The command gives the current default shell, and ask you to enter the path to the shells you wants to use by default. This path was indicated by the command you runned in the first step. Here's a demonstration:
 
 ![list installed shells](
 

@@ -41,7 +41,7 @@ To do that, you'll must change your *.zshrc* file (who is stored in your home fo
   After doing that, move you on the folder chere are stored all the elements of this repository with `cd kali-shell-on-your-linux`.
   
   ### Move the zsh-autosuggestions & zsh-syntax-highlighting folders
-  - Your actually on a folder who contain folders and files you'll must move à the right place.
+  - Your actually on a folder who contain folders and files you'll must move at the right place.
   - First, do `ls`to see the files and folders there is here, like of this example:
 
 ![ls in kali-shell-on-your-linux](

@@ -31,9 +31,30 @@ We'll do this in three steps:
 ![list installed shells](
 
 ## Make your zsh look like the kali zsh
+### Clone this repository on your computer
 To do that, you'll must change your *.zshrc* file (who is stored in your home folder) with a specific code, and also add folders to your */usr/share* directory. This folders and the code for the *.zshrc* files are on this github repository. So we must download the content of this git repository on your computer:
   1.  Open your terminal
   2.  Type `cd` to go on your home folder
   3.  Type `git clone https://github.com/likalium/kali-shell-on-your-linux` to download the content of this repository on your computer
   > If you have an error who say that the git command isn't found, install git with `sudo apt install git` and retry the third step.
   
+  After doing that, move you on the folder chere are stored all the elements of this repository with `cd kali-shell-on-your-linux`.
+  
+  ### Move the zsh-autosuggestions & zsh-syntax-highlighting folders
+  - Your actually on a folder who contain folders and files you'll must move à the right place.
+  - First, do `ls`to see the files and folders there is here, like of this example:
+
+![ls in kali-shell-on-your-linux](
+
+You can see two folders, one named **zsh-autosuggestions** and one named **zsh-syntax-highlighting**. You must move it in the `/usr/share` directory.
+  1.  Type `sudo mv zsh-autosuggestions /usr/share` and type your password.
+  2.  Type `sudo mv zsh-syntax-highlighting /usr/share` and type your password.
+
+This folders are now at the right place. Now we must configure zsh.
+
+### Configure the .zshrc file
+The **.zshrc** file store the "design datas" of zsh, and he's stored in your home folder. So if the kali zsh is so unique, it's because of his highly sophisticated **.zshrc**.
+You will replace your actual **.zshrc** by the **.zshrc** who is here, by doing this:
+  - `mv .zshrc ~`
+> `~` is a shortcut who is equivalent to your home directory
+

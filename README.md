@@ -1,6 +1,9 @@
 # Kali shell on your linux
 For the persons (like me) who searched how to make your shell looks like kali linux. This is not a guide for advanced linux users, but for the linux noobs (like me). Also, i'm french and not yet really good in english, so i do my best to write this in a good english but I apologise for all english errors i'll make.
 
+## Note
+All the command are made on DEBIAN, so some of them (for example `apt`) will run with DEBIAN-BASED distros. If you have a non debian-based distro (ex: arch linux), you must adapt some commands to your distro.
+
 ## Requirements
 The default kali shell is **zsh** (Z shell). It's THE shell you must have if you want to have your shell looks like the kali shell.
 
@@ -76,3 +79,17 @@ You will replace your actual **.zshrc** by the **.zshrc** who is here, by doing 
 > `~` is a shortcut who is equivalent to your home directory
 
 ![cat zshrc > ~/.zshrc](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/cat_zshrc.png)
+
+Apply the change by moving into your home folder (by doing `cd`) and type `zsh .zshrc`. You shell must look like that:
+
+![zsh of kali](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/kali_zsh.png)
+
+If the colors are differents, that's not a problem, we will configure them.
+
+## Configure the terminal colors
+Last step: configure the colors of your terminal. To do that, open your terminal settings. 
+> the demonstration will be made with **Qterminal** AND after with **gnome-terminal**. I used the name of the packages, so if you want to install them do `sudo apt install qterminal` for qterminal and `sudo apt install gnome-terminal` for gnome-terminal. If your computer says that the package you want to install is already installed, type the name of the package to lauch it. The demonstrations will be made with **Xfce desktop environnement**.
+
+For **qterminal:
+
+![open settings in qterminal](

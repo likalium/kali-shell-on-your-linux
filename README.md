@@ -14,7 +14,7 @@ Like you see, in the CMD column there is the name of the shell you're using. Her
 > if the shell you're using is already zsh, skip this step
 
   - copy the command `sudo apt install zsh`
-  - enter your password
+  - enter your password (don't care if nothing will appear at the screen when you'll type your password, the computer still see your password so type your password and press enter)
   - press "y" if asking
   - Congratulations, you've installed zsh on your computer!
 

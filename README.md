@@ -20,7 +20,20 @@ Here's a demonstration:
 
 ![install zsh](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/install_zsh.png)
 
-> Now zsh is installed in your computer! to use it, copy the command `zsh` on your terminal (to use a shell, juste type his name on the terminal). But currently, your zsh is probably not very nice! We will change that.
+> Now zsh is installed in your computer! to use it, copy the command `zsh` on your terminal (to use a shell, juste type his name on the terminal). But currently, your zsh is probably not very nice! We will change that, but first, we must define zsh as the default terminal. If we don't do that, we will must type `zsh` every time we restart our computer to use zsh and not your default shell.
+
+## Make zsh as your default shell
+We'll do this in three steps:
+  1. List the shells you have on your computer with `cat /etc/shells` to know what shells you're using
+  2. Type the `chsh` command
+  3. The command says the actual default shell, and ask you to enter the path to the shells you wants to use by default. This path was indicated by the command you runned in the first step. Here's a demonstration:
+
+![list installed shells](
 
 ## Make your zsh look like the kali zsh
-To do that, you'll must change your *.zshrc* file (who is stored in your home folder) with a specific code, and also add folders to your */usr/share* directory. This folders and the code for the *.zshrc* files are on this github repository. So we must download the content of this git repository on your computer. For this, create a folder where you want to store the content of this repository. After that, go on your terminal and type `cd
+To do that, you'll must change your *.zshrc* file (who is stored in your home folder) with a specific code, and also add folders to your */usr/share* directory. This folders and the code for the *.zshrc* files are on this github repository. So we must download the content of this git repository on your computer:
+  1.  Open your terminal
+  2.  Type `cd` to go on your home folder
+  3.  Type `git clone https://github.com/likalium/kali-shell-on-your-linux` to download the content of this repository on your computer
+  > If you have an error who say that the git command isn't found, install git with `sudo apt install git` and retry the third step.
+  

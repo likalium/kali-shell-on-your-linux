@@ -96,4 +96,67 @@ Last step: configure the colors of your terminal. To do that, open your terminal
 
 I'll show the hex code for every color in a precise order, so here is a screenshot with a number on every color. I'll change them in this order: 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16
 
-![colors qterminal with numbers](
+![colors qterminal with numbers](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/colors_qterminal_with_numbers.png)
+
+Color 1:
+
+![color 1](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color1.png)
+
+Color 2:
+
+![color 2](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color2.png)
+
+Color 3:
+
+![color 3](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color3.png)
+
+Color 4:
+
+![color 4](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color4.png)
+
+Color 5:
+
+![color 5](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color5.png)
+
+Color 6:
+![color 6](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color6.png)
+
+Color 7:
+
+![color 7](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color7.png)
+
+Color 8:
+
+![color 8](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color8.png)
+
+Color 9:
+
+![color 9](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color9.png)
+
+Color 10:
+
+![color 10](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color10.png)
+
+Color 11:
+
+![color 11](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color11.png)
+
+Color 12:
+
+![color 12](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color12.png)
+
+Color 13:
+
+![color 13](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color13.png)
+
+Color 14:
+
+![color 14](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color14.png)
+
+Color 15:
+
+![color 15](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color15.png)
+
+Color 16:
+
+![color 16](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color16.png)

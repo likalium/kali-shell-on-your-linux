@@ -55,6 +55,6 @@ This folders are now at the right place. Now we must configure zsh.
 ### Configure the .zshrc file
 The **.zshrc** file store the "design datas" of zsh, and he's stored in your home folder. So if the kali zsh is so unique, it's because of his highly sophisticated **.zshrc**.
 You will replace your actual **.zshrc** by the **.zshrc** who is here, by doing this:
-  - `mv .zshrc ~`
+  - `cat zshrc > ~/.zshrc`
 > `~` is a shortcut who is equivalent to your home directory
 

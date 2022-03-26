@@ -34,7 +34,7 @@ We'll do this in three steps:
 ### Clone this repository on your computer
 To do that, you'll must change your *.zshrc* file (who is stored in your home folder) with a specific code, and also add folders to your */usr/share* directory. This folders and the code for the *.zshrc* files are on this github repository. So we must download the content of this git repository on your computer:
   1.  Open your terminal
-  2.  Type `cd` to go on your home folder
+  2.  Type `cd` (that moves you in your home folder)
   3.  Type `git clone https://github.com/likalium/kali-shell-on-your-linux` to download the content of this repository on your computer
   > If you have an error who say that the git command isn't found, install git with `sudo apt install git` and retry the third step.
   

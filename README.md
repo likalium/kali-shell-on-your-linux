@@ -88,8 +88,12 @@ If the colors are differents, that's not a problem, we will configure them.
 
 ## Configure the terminal colors
 Last step: configure the colors of your terminal. To do that, open your terminal settings. 
-> the demonstration will be made with **Qterminal** AND after with **gnome-terminal**. I used the name of the packages, so if you want to install them do `sudo apt install qterminal` for qterminal and `sudo apt install gnome-terminal` for gnome-terminal. If your computer says that the package you want to install is already installed, type the name of the package to lauch it. The demonstrations will be made with **Xfce desktop environnement**.
+> the demonstration will be made with **Qterminal**. I used the name of the packages, so if you want to install them do `sudo apt install qterminal` if you want to use the same terminal as me. If your computer says that the package you want to install is already installed, type the name of the package to lauch it. The demonstrations will be made with **Xfce desktop environnement**.
 
-For **qterminal:
+![open settings in qterminal](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/settings_qterminal.png)
 
-![open settings in qterminal](
+![colors qterminal](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/colors_qterminal.png)
+
+I'll show the hex code for every color in a precise order, so here is a screenshot with a number on every color. I'll change them in this order: 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16
+
+![colors qterminal with numbers](

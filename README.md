@@ -1,5 +1,5 @@
 # Kali shell on your linux
-For the persons (like me) who searched how to make your shell looks like kali linux. This is not a guide for advanced linux users, but for the linux noobs (like me). Also, i'm french and not yet really good in english, so i do my best to write this in a good english but I apologise for all english errors i'll make.
+For the persons (like me) who searched how to make your shell looks like kali linux. This is not a guide for advanced linux users, but for the linux noobs (like me). Also, I'm french and not yet really good in english, so I do my best to write this in a good english but I apologise for all english errors I'll make.
 
 ## Note
 All the command are made on DEBIAN, so some of them (for example `apt`) will run with DEBIAN-BASED distros. If you have a non debian-based distro (ex: arch linux), you must adapt some commands to your distro.
@@ -162,4 +162,4 @@ Color 16:
 ![color 16](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color16.png)
 
 
-AANNNNNND IT'S FINISH! 🥳
+AAAAAAAAAAAAAND IT'S FINISHED! 🥳

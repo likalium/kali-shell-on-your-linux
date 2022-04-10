@@ -88,7 +88,7 @@ If the colors are differents, that's not a problem, we will configure them.
 
 ## Configure the terminal colors
 Last step: configure the colors of your terminal. To do that, open your terminal settings. 
-> the demonstration will be made with **Qterminal**. I used the name of the packages, so if you want to install them do `sudo apt install qterminal` if you want to use the same terminal as me. If your computer says that the package you want to install is already installed, type the name of the package to lauch it. The demonstrations will be made with **Xfce desktop environnement**.
+> the demonstration will be made with **xfce4-terminal**. I used the name of the packages, so if you want to install them do `sudo apt install qterminal` if you want to use the same terminal as me. If your computer says that the package you want to install is already installed, type the name of the package to lauch it. The demonstrations will be made with **Xfce desktop environnement**.
 
 ![open settings in qterminal](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/settings_qterminal.png)
 

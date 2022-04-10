@@ -119,6 +119,7 @@ Color 5:
 ![color 5](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color5.png)
 
 Color 6:
+
 ![color 6](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color6.png)
 
 Color 7:

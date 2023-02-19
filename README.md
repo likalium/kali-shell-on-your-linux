@@ -163,4 +163,4 @@ Color 16:
 ![color 16](https://github.com/likalium/kali-shell-on-your-linux/blob/main/assets/color16.png)
 
 
-AAAAAAAAAAAAAND IT'S FINISHED! 🥳 GG!
+AAAAAAAAAAAAAND IT'S FINISHED! GG!
